@@ -1,0 +1,12 @@
+let number=0;
+let sum = 0;
+function numbers{
+  For (number = 0; number <= numberlength; number ++)
+  BEGIN
+    console.log(input the number);
+    print number;
+    sqr=number*number;
+    sum=sum + sqr;
+    print sum; 
+   END;
+}
