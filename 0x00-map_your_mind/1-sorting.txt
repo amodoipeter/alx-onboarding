@@ -1,0 +1,10 @@
+let numbers = x,y,z;
+IF (x>y && y>z);
+BEGIN
+print (x,y,z)
+ELSE IF(z>y && y>x)
+BEGIN
+print (z,y,x)
+ELSE
+print(numbers)
+END
