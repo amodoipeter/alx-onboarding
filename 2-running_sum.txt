@@ -1,6 +1,0 @@
-let sum = 0;
-for (num=0; num >=0; num++);
-BEGIN
-sum = num + sum;
-print (sum);
-END
